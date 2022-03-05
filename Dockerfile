@@ -1,9 +1,9 @@
 # Using Python Slim-Buster
 FROM xluxz/geezproject:buster
-# BAGAS-USERBOT
-# BAGAS
+# SENSI-USERBOT
+# SENSI
 
-RUN git clone -b BAGAS-USERBOT https://github.com/ybgskr12/BAGAS-USERBOT /root/userbot
+RUN git clone -b SENSI-USERBOT https://github.com/ybgskr12/BAGAS-USERBOT /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
