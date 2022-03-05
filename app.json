@@ -1,6 +1,6 @@
 {
-  "name": "BAGAS-USERBOT",
-  "description": "[BAGAS-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "SENSI☆-USERBOT",
+  "description": "[SENSI☆-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/63267910585608a6302b0.jpg",
   "keywords": [
     "telegram",
@@ -42,7 +42,7 @@
     },
     "ALIVE_NAME": {
       "description": "Nama untuk menunjukan pesan .alive",
-      "value": "Bagas-Userbot",
+      "value": "Sensi☆-Userbot",
       "required": true
     },
     "S_PACK_NAME": {
