@@ -1,4 +1,4 @@
-<h1 align="center"><imgsrc="./resources/extras/geez.gif" width="35px">BAGASKARA-UBOT🔥<imgsrc="./resources/extras/geez.gif" width="35px"></h1>
+<h1 align="center"><imgsrc="./resources/extras/geez.gif" width="35px">SENSI-UBOT🔥<imgsrc="./resources/extras/geez.gif" width="35px"></h1>
 </p>
 <p align="center">
     <a href="https://github.com/ybgskr12/Sayonara-Userbot"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -21,7 +21,7 @@
 
 [<img src="https://telegra.ph/file/868879c0913cf74d7372c.jpg">](https://t.me/allfucek) 
   
-#### JOIN YA KE BAGASKARA SUPPORT 🔥!!
+#### JOIN YA KE SENSI SUPPORT 🔥!!
 
 <a href="https://t.me/allfucek"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/loveisfuckedup"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
